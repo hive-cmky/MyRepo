@@ -1,1 +1,15 @@
-*.txt
+# Binaries for programs and plugins
+*.exe
+
+# text file
+*.txt 
+
+# folder
+E:\git\MyRepo\cpp\bits
+cpp\bits
+https://github.com/hive-cmky/MyRepo/blob/0fac45c4c3c9a3ae327ca093f9aabcec2a3bac8e/cpp/bits
+https://github.com/hive-cmky/MyRepo/blob/0fac45c4c3c9a3ae327ca093f9aabcec2a3bac8e/cpp/bits
+cpp/bits
+
+
+
