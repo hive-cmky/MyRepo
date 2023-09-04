@@ -11,6 +11,8 @@ https://github.com/hive-cmky/MyRepo/blob/0fac45c4c3c9a3ae327ca093f9aabcec2a3bac8
 https://github.com/hive-cmky/MyRepo/blob/0fac45c4c3c9a3ae327ca093f9aabcec2a3bac8e/cpp/bits
 cpp/bits
 
+# json file
+*.json
 
 Create a .gitignore file in your root directory
 Ignoring single files
